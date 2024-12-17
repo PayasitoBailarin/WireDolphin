@@ -1,0 +1,14 @@
+﻿  Main.cpp
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(206,83): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(224,119): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(279,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(292,23): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(566,36): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(593,36): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(760,53): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+  Generando código
+  3 of 333 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Redes.vcxproj -> D:\Redes Proyecto Final\Redes\x64\Release\Redes.exe

@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(203,83): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(221,119): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(276,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(289,23): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(558,36): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(585,36): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(751,53): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\Redes Proyecto Final\Redes\Redes\Main.cpp(515,1): warning C4715: '`WndProc'::`30'::<lambda_1>::operator()': no todas las rutas de acceso de control devuelven un valor
+  Redes.vcxproj -> D:\Redes Proyecto Final\Redes\x64\Debug\Redes.exe
